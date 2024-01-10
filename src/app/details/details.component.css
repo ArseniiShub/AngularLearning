@@ -42,6 +42,7 @@ li {
 .listing-apply .section-heading {
   font-size: 18pt;
   margin-bottom: 15px;
+  margin-top: 50px;
 }
 
 label, input {
